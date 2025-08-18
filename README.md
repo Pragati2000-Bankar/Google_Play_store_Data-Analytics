@@ -2,7 +2,9 @@
 This project is part of the Data Analytics Internship Training by NullClass.
 
 Name: Pragati Popat Bankar
+
 Internship Duration: 6 Months
+
 Project Title: Real-Time Google Play Store Data Analytics – 
 Python
 
@@ -14,13 +16,18 @@ business intelligence rules like time-based conditional displays, filtering logi
 translations.
 
 Tasks Completed 
+
 Task 1: Implemented visualization for Top Categories by Installs with time-based 
 conditionalvisibility.
+
 Task 2: Created visualization for Sentiment Analysis of User Reviews with multilingual translation support.
+
 Task 3: Developed visualization for Android Version Distribution using advanced filtering and
 number parsing.
+
 Task 4: Implemented Monthly Install Trends by Category with conditional highlighting of >20%
 growth.
+
 Task 5: Built Global Installs Choropleth Map with multilingual support (Marathi).
 
 Learning Outcomes
