@@ -1,42 +1,35 @@
-# Google_Play_store_Data-Analytics
+# Real-Time Google Play Store Data Analytics
 This project is part of the Data Analytics Internship Training by NullClass.
 
-Name: Pragati Popat Bankar
+This project was created as part of the NullClass Internship Program. It includes 5 advanced data visualization tasks implemented in Python using Plotly and Pandas, with multilingual and conditional rendering features.
 
-Internship Duration: 6 Months
+## Tasks Implemented
 
-Project Title: Real-Time Google Play Store Data Analytics – 
-Python
+### Task 1: Data Preprocessing
+- Cleaned `Installs`, `Reviews`, and `Last Updated`
+- Removed missing and inconsistent values
 
-Introduction
+### Task 2: Conditional Line Chart (Installs over Time)
+- Shows install trends by category
+- Highlights categories with >20% month-over-month growth
+- Visible only from **6 PM to 9 PM IST**
 
-This report summarizes the work completed during the internship under the project titled 'Real-Time Google Play Store Data Analytics – Python'. The objective of the project was to implement
-advanced data visualizations, perform analytics on Google Play Store data, and integrate 
-various
-business intelligence rules like time-based conditional displays, filtering logic, and multilingual
-translations.
+### Task 3: Android Version Extraction
+- Extracted numeric Android version (e.g., 4.1, 5.0)
 
-Tasks Completed 
+### Task 4: Top 5 Categories by Installs
+- Displayed using a pie chart
 
-Task 1: Implemented visualization for Top Categories by Installs with time-based 
-conditionalvisibility.
+### Task 5: Multilingual Visualization
+- Bar chart of top categories per region
+- Translations supported:
+  - English
+  - Hindi
+  - French
+  - Marathi ✅
 
-Task 2: Created visualization for Sentiment Analysis of User Reviews with multilingual translation support.
+## Learning Outcomes
+During the course of this internship, I enhanced my skills in Python, data preprocessing, data visualization using Plotly, and integration of real-time conditional logic. Additionally, I gained experience in multilingual data presentation and GitHub version control for project submissions.
 
-Task 3: Developed visualization for Android Version Distribution using advanced filtering and
-number parsing.
-
-Task 4: Implemented Monthly Install Trends by Category with conditional highlighting of >20%
-growth.
-
-Task 5: Built Global Installs Choropleth Map with multilingual support (Marathi).
-
-Learning Outcomes
-During the course of this internship, I enhanced my skills in Python, data preprocessing, data
-visualization using Plotly, and integration of real-time conditional logic. Additionally, I gained
-experience in multilingual data presentation and GitHub version control for project submissions.
-
-Conclusion
-The internship was highly beneficial in applying theoretical knowledge to a real-world project. I
-successfully completed all 5 tasks within the first month of my 6-month internship and am eager to
-take on new challenges to continue learning and contributing.
+## Conclusion
+The internship was highly beneficial in applying theoretical knowledge to a real-world project. I successfully completed all 5 tasks within the first month of my 6-month internship and am eager to take on new challenges to continue learning and contributing.
