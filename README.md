@@ -9,7 +9,8 @@ Project Title: Real-Time Google Play Store Data Analytics –
 Python
 
 Introduction
-This report summarizes the work completed during the internship under the project titled 'RealTimeGoogle Play Store Data Analytics – Python'. The objective of the project was to implement
+
+This report summarizes the work completed during the internship under the project titled 'Real-Time Google Play Store Data Analytics – Python'. The objective of the project was to implement
 advanced data visualizations, perform analytics on Google Play Store data, and integrate 
 various
 business intelligence rules like time-based conditional displays, filtering logic, and multilingual
